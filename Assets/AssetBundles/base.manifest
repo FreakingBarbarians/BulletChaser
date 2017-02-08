@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3147600213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fdcb16c03f62465644014d488f4ee09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcc9f9a5a7c3b8f5c4ec6f8518bc60ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29d5de80f183553438564dd2d24f015b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80dedb160a58b7c4293f0889644e8393, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f80fc027756631448bd7543385b58238, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ed0f127e67264e49afc6a3cb11b7fbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3871dcc7a7aa5491d90cd2cef4557f1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba7341188d27b4ce58ecc1d031013f00, type: 3}
+- Class: 114
+  Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+- Class: 114
+  Script: {fileID: -1768714887, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da5be95c70b989748becda64919b6ef2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 056914cca20acd34bb344aa06d4fbf2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6064dfec6a76d4521837f9394fb77acc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Bullets/LightbulletPrefab.prefab
+- Assets/Prefabs/ProtoShip.prefab
+Dependencies: []

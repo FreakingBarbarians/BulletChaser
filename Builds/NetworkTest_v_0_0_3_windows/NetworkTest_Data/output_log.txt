@@ -1,0 +1,225 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.702413 ms
+Unable to open archive file: AssetBundles/base
+ 
+(Filename:  Line: 471)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PrefabPool.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.028356 ms
+Unable to open archive file: AssetBundles/base
+ 
+(Filename:  Line: 471)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PrefabPool.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading the last scene Assets/Scenes/PreLoadScene.unity(build index: 0), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 139)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.419403 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.157130 ms (FindLiveObjects: 0.013142 ms CreateObjectMapping: 0.009930 ms MarkObjects: 0.130844 ms  DeleteObjects: 0.002920 ms)
+
+Unloading the last scene Assets/Scenes/PreLoadScene.unity(build index: 0), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 139)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.220508 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.118869 ms (FindLiveObjects: 0.009346 ms CreateObjectMapping: 0.008761 ms MarkObjects: 0.097549 ms  DeleteObjects: 0.002628 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.122478 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.171149 ms (FindLiveObjects: 0.014019 ms CreateObjectMapping: 0.010222 ms MarkObjects: 0.137854 ms  DeleteObjects: 0.008469 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RegisteringPrefabs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client Connecting To 127.0.0.1:25565
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connected to host 127.0.0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.173297 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.158298 ms (FindLiveObjects: 0.014311 ms CreateObjectMapping: 0.010222 ms MarkObjects: 0.126171 ms  DeleteObjects: 0.006717 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RegisteringPrefabs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client Connecting To 127.0.0.1:25565
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connected to host 127.0.0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\BulletChaser2\Builds\NetworkTest_v_0_0_3_windows\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.797917 ms
+Unable to open archive file: AssetBundles/base
+ 
+(Filename:  Line: 471)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PrefabPool.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading the last scene Assets/Scenes/PreLoadScene.unity(build index: 0), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 139)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.236571 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.188673 ms (FindLiveObjects: 0.012850 ms CreateObjectMapping: 0.010806 ms MarkObjects: 0.160927 ms  DeleteObjects: 0.003212 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.958338 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.150120 ms (FindLiveObjects: 0.011974 ms CreateObjectMapping: 0.008177 ms MarkObjects: 0.123834 ms  DeleteObjects: 0.005841 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RegisteringPrefabs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client Connecting To 127.0.0.1:25565
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connected to host 127.0.0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+IS LOCAL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1920 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21cc -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2834 -> priority: 1 
